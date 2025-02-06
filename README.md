@@ -46,6 +46,6 @@
 - Optimisation de la gestion mémoire
 - Support d’autres formats de sortie (BMP, PNG)
 - Accélération avec SIMD/OpenMP
-## 👥 **Équipe** : Mouez Jaafoura, Firas Khalfalah, Bassem Akrout
+## 👥 **Équipe** : Mouez Jaafoura, Firas Khalfallah, Bassem Akrout
 
 ![$$\color{blue}{JPEG\ DECODER\ STRUCTURE\\}$$](projet_C.jpeg)
